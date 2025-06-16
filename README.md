@@ -1,4 +1,7 @@
 ## Hi there 👋
+I am a backend software engineer having interest in anything and everything that is non front end !!!! Thats backend.
+Aim is to use this to document all my learnings.
+
 
 <!--
 **yashas224/yashas224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
