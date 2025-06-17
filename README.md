@@ -1,4 +1,4 @@
-# 👋 Hello, I'm a Backend Software Engineer!
+# 👋 Hello, I'm a Backend Software Engineer
 
 Welcome to my space! I'm passionate about **everything and anything that's not frontend** — in other words, I love building the **backbone of applications**. 🛠️
 
