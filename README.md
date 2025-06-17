@@ -50,6 +50,11 @@ This space is dedicated to documenting my journey, learnings, and upskilling adv
 ###  Distributed locking - ShedLock 
   - [ShedLock](https://github.com/yashas224/distributed-lock) – Sring boot APP to show the usage of distributed locking using shedLock library
 
+### Circuit breaker
+  - [Circuit breaker](https://github.com/yashas224/circuit-breaker) – Circuit Breakaer implementation using functionl programming & annotations. Includes test cases for circuit breaker and Grafna Dashboards
+
+
+
 
  ###  Databases
   - [MongoDB](https://github.com/yashas224/docker-react) – Spring boot application to work with MongoDB
