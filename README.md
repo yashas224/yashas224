@@ -34,7 +34,8 @@ This space is dedicated to documenting my journey, learnings, and upskilling adv
   - [Kubernetes ](https://github.com/yashas224/simplek8s) – 
   ### 🐹 CI/CD
   - [AWS Elastic Beanstalk and Travic CI ](https://github.com/yashas224/multi-container-elastic-beanstalk) – Deploying a  web application on AWS Elastic Beanstalk using  Travic CI CI/CD pipeline
-  - [Google Jubernetes Engine  and Travic CI ](https://github.com/yashas224/kubernetes-deployment-test)(https://github.com/yashas224/simplek8s) – Deploying a  web application on Google Jubernetes Engine using  Travic CI CI/CD pipeline
+  - [Google Jubernetes Engine  and Travic CI ](https://github.com/yashas224/kubernetes-deployment-test) – Deploying a  web application on Google Jubernetes Engine using  Travic CI CI/CD pipeline
+  - [Local K8s cluster deployment ](https://github.com/yashas224/simplek8s) – Deploying a the above  application on Local K8s cluster deployment
 
 
  
