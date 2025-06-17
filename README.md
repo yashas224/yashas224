@@ -21,6 +21,9 @@ This space is dedicated to documenting my journey, learnings, and upskilling adv
 - [Spring Boot Microservices / Spring cloud v1](https://github.com/yashas224/spring-cloud-v1) –  Spring boot microservices built with spring cloud v1 to understand Spring Cloud Netflix components
 - [Spring Boot Microservices / Spring cloud v2](https://github.com/yashas224/spring-cloud-v2) –  Spring boot microservices built with spring cloud v2 to understand Spring Cloud Netflix components
 
+## Spring Boot Reactive
+- [Spring Web flux ](https://github.com/yashas224/spring-web-flux-project) – Spring boot project built to understand Spring Web flux and reactive paradigm 
+
 
 ### 🐹 Spring Security
 - [Spring Security v1](https://github.com/yashas224/spring-security-v1) – Spring boot Security project
