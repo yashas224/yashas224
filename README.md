@@ -13,6 +13,12 @@ This space is dedicated to documenting my journey, learnings, and upskilling adv
 - [Functional Programming](https://github.com/yashas224/functional-programming) – Java project exploring functional Programming
 - [Multithreading and parallel computine](https://github.com/yashas224/multithreading-parallel-computing-java) – Java project exploring Multithreading and parallel computine
 
+### JVM shutdown 
+Problem statement - Not all Spring boot app's execute PostDestroy hook.
+The Project was built to understand every aspect related to JVM shutdown hook.
+- [JVM shutdown process](https://github.com/yashas224/jvm-shutdown-k8s-spring-boot) – Service to understand relation between k8s pod termination , JVM shutdown using spring boot application. Shows usage of DB spring data jpa without using application.properties
+
+
 
 ### Java Reactive Programming
 - [Reactive Programming](https://github.com/yashas224/Project-Reactor)) – Java project exploring Reactive  Programming stack
