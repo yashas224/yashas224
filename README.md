@@ -33,6 +33,10 @@ This space is dedicated to documenting my journey, learnings, and upskilling adv
 - [Apache Kafka & spring boot 3.x ](https://github.com/yashas224/kafka-spring-boot-3x) –Spring boot 3.x and Apache kafka project 
 
 
+## OPA https://www.openpolicyagent.org/
+- [OPA project with Spring boot ](https://github.com/yashas224/OPA-spring-boot) – OPA  and Spring boot  project
+- [OPA Bundle Service API Demo with Spring boot ](https://github.com/yashas224/OPA-bundle-spring-boot) – Delivering OPA policy bundle using bundle service API [producer and consumer ] using Spring boot  project
+
 
 
 ### 🐹 Spring Security
