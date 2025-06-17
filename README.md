@@ -4,12 +4,7 @@ Welcome to my space! I'm passionate about **everything and anything that's not f
 
 ## 🚀 What You'll Find Here
 
-This repository is a living document of my backend engineering journey. It's where I share:
-
-- 🔍 **Learning notes** and insights from new technologies, tools, and concepts
-- 📚 **Code snippets**, best practices, and architectural patterns
-- ⚙️ **Projects and experiments** — from small utilities to full-fledged APIs
-- 🧠 **Reflections** on backend design, scalability, performance, and system architecture
+This space is dedicated to documenting my journey, learnings, and upskilling adventures as I explore the world of backend development.
 
 
 
