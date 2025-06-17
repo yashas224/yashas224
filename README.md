@@ -22,7 +22,15 @@ This space is dedicated to documenting my journey, learnings, and upskilling adv
 - [Spring Boot Microservices / Spring cloud v2](https://github.com/yashas224/spring-cloud-v2) –  Spring boot microservices built with spring cloud v2 to understand Spring Cloud Netflix components
 
 ## Spring Boot Reactive
-- [Spring Web flux ](https://github.com/yashas224/spring-web-flux-project) – Spring boot project built to understand Spring Web flux and reactive paradigm 
+- [Spring Web flux ](https://github.com/yashas224/spring-web-flux-project) – Spring boot project built to understand Spring Web flux and reactive paradigm
+
+## Apache Kafka 
+- [Java Project ](https://github.com/yashas224/kafka-java-project) – Java and Apache kafka project
+- [Java Project v1 ](https://github.com/yashas224/kafka-basic-java-programming) – Java and Apache kafka project
+- [Apache Kafka & spring boot 2.x ](https://github.com/yashas224/kafka-spring-boot) – Spring boot 2.x and Apache kafka project 
+- [Apache Kafka & spring boot 3.x ](https://github.com/yashas224/kafka-spring-boot-3x) –Spring boot 3.x and Apache kafka project 
+
+
 
 
 ### 🐹 Spring Security
