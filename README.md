@@ -47,6 +47,8 @@ This space is dedicated to documenting my journey, learnings, and upskilling adv
 ###  Monitoring 
 - [Prometheus & grafana ](https://github.com/yashas224/monitoring-spring-boot) – Spring boot monitoring System using Prometheus & grafana
 
+###  ShedLock with Spring boot
+  - [ShedLock](https://github.com/yashas224/distributed-lock) – Sring boot APP to show the usage of distributed locking using shedLock library
 
 
  ###  Databases
