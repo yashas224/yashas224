@@ -38,7 +38,6 @@ This space is dedicated to documenting my journey, learnings, and upskilling adv
 - [OPA Bundle Service API Demo with Spring boot ](https://github.com/yashas224/OPA-bundle-spring-boot) – Delivering OPA policy bundle using bundle service API [producer and consumer ] using Spring boot  project
 
 
-
 ###  Spring Security
 - [Spring Security v1](https://github.com/yashas224/spring-security-v1) – Spring boot Security project
 - [Spring Security v2](https://github.com/yashas224/spring-security-v2) – Spring boot Security project 
@@ -50,21 +49,21 @@ This space is dedicated to documenting my journey, learnings, and upskilling adv
 ###  Distributed locking - ShedLock 
   - [ShedLock](https://github.com/yashas224/distributed-lock) – Sring boot APP to show the usage of distributed locking using shedLock library
 
+
 ### Circuit breaker
   - [Circuit breaker](https://github.com/yashas224/circuit-breaker) – Circuit Breakaer implementation using functionl programming & annotations. Includes test cases for circuit breaker and Grafna Dashboards
 
 
-
-
- ###  Databases
+###  Databases
   - [MongoDB](https://github.com/yashas224/docker-react) – Spring boot application to work with MongoDB
   - [MySQL](https://github.com/yashas224/spring-boot-multiple-datastores) -  Spring boot project to integrate applicatio with multiple DB servers
 
-  ### Docker and Kubernetes
+### Docker and Kubernetes
   - [Docker Image Internals](https://github.com/yashas224/docker-react) – React App to understand internals of Docker Image
   - [Kubernetes - spring cloud v2](https://github.com/yashas224/spring-cloud-v2-kubernetes) –  Deploy spring boot microservices with spring cloud v2 on local Kubernetes
+  - [Docker Compose | ZAP scan](https://github.com/yashas224/ZAP-Scan) – Exploring docker compose and genarating ZAP scan report
 
-  ###  CI/CD
+###  CI/CD
   - [AWS Elastic Beanstalk and Travic CI ](https://github.com/yashas224/multi-container-elastic-beanstalk) – Deploying a  web application on AWS Elastic Beanstalk using  Travic CI CI/CD pipeline
   - [Google Jubernetes Engine  and Travic CI ](https://github.com/yashas224/kubernetes-deployment-test) – Deploying a  web application on Google Jubernetes Engine using  Travic CI CI/CD pipeline
   - [Local K8s cluster deployment ](https://github.com/yashas224/simplek8s) – Deploying a the above  application on Local K8s cluster deployment
