@@ -15,7 +15,7 @@ This space is dedicated to documenting my journey, learnings, and upskilling adv
 
 
 ### Java Reactive Programming
-- [Reactive Programming]([https://github.com/yashas224/functional-programming](https://github.com/yashas224/Project-Reactor)) – Java project exploring Reactive  Programming stack
+- [Reactive Programming](https://github.com/yashas224/Project-Reactor)) – Java project exploring Reactive  Programming stack
 
 
 ### Spring Boot
