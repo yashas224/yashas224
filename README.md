@@ -39,22 +39,22 @@ This space is dedicated to documenting my journey, learnings, and upskilling adv
 
 
 
-### 🐹 Spring Security
+###  Spring Security
 - [Spring Security v1](https://github.com/yashas224/spring-security-v1) – Spring boot Security project
 - [Spring Security v2](https://github.com/yashas224/spring-security-v2) – Spring boot Security project 
 - [Spring Security JWT](https://github.com/yashas224/spring-security-jwt) –   Spring boot Security project working with JWT tokens
 
 
 
- ### 🐹 Databases
+ ###  Databases
   - [MongoDB](https://github.com/yashas224/docker-react) – A spring boot application to work with MongoDB
   - 
 
-  ### 🐹 Docker and Kubernetes
+  ### Docker and Kubernetes
   - [Docker Image Internals](https://github.com/yashas224/docker-react) – React App to understand internals of Docker Image
   - [Kubernetes - spring cloud v2](https://github.com/yashas224/spring-cloud-v2-kubernetes) –  Deploy spring boot microservices with spring cloud v2 on local Kubernetes
 
-  ### 🐹 CI/CD
+  ###  CI/CD
   - [AWS Elastic Beanstalk and Travic CI ](https://github.com/yashas224/multi-container-elastic-beanstalk) – Deploying a  web application on AWS Elastic Beanstalk using  Travic CI CI/CD pipeline
   - [Google Jubernetes Engine  and Travic CI ](https://github.com/yashas224/kubernetes-deployment-test) – Deploying a  web application on Google Jubernetes Engine using  Travic CI CI/CD pipeline
   - [Local K8s cluster deployment ](https://github.com/yashas224/simplek8s) – Deploying a the above  application on Local K8s cluster deployment
