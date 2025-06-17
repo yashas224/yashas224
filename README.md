@@ -53,13 +53,10 @@ This space is dedicated to documenting my journey, learnings, and upskilling adv
   ### 🐹 Docker and Kubernetes
   - [Docker Image Internals](https://github.com/yashas224/docker-react) – React App to understand internals of Docker Image
   - [Kubernetes - spring cloud v2](https://github.com/yashas224/spring-cloud-v2-kubernetes) –  Deploy spring boot microservices with spring cloud v2 on local Kubernetes
+
   ### 🐹 CI/CD
   - [AWS Elastic Beanstalk and Travic CI ](https://github.com/yashas224/multi-container-elastic-beanstalk) – Deploying a  web application on AWS Elastic Beanstalk using  Travic CI CI/CD pipeline
   - [Google Jubernetes Engine  and Travic CI ](https://github.com/yashas224/kubernetes-deployment-test) – Deploying a  web application on Google Jubernetes Engine using  Travic CI CI/CD pipeline
   - [Local K8s cluster deployment ](https://github.com/yashas224/simplek8s) – Deploying a the above  application on Local K8s cluster deployment
-
-
-### 🧪 Testing, CI/CD, DevOps
-- [CI/CD with GitHub Actions](https://github.com/yourusername/github-actions-pipeline) – Pipeline with automated testing and Docker builds.
-- [Backend Integration Testing](https://github.com/yourusername/backend-integration-testing) – Real-world backend test setup with Docker Compose.
+ - [CI/CD with GitHub Actions | ZAP scan](https://github.com/yashas224/ZAP-github-action) – Built githib action to generate ZAP scan report 
 
