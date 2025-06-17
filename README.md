@@ -21,8 +21,7 @@ This space is dedicated to documenting my journey, learnings, and upskilling adv
 ### 🐹 Spring Security
 - [Spring Security v1](https://github.com/yashas224/spring-security-v1) – Spring boot Security project
 - [Spring Security v2](https://github.com/yashas224/spring-security-v2) – Spring boot Security project 
-
-- [Spring Boot Microservices](Spring Boot Microservices) –  Another Lightweight Spring boot microservices built to understand Spring Cloud Netflix components
+- [Spring Security JWT](https://github.com/yashas224/spring-security-jwt) –   Spring boot Security project working with JWT tokens
 
 
 
@@ -32,6 +31,9 @@ This space is dedicated to documenting my journey, learnings, and upskilling adv
 
   ### 🐹 Docker and Kubernetes
   - [Docker Image Internals](https://github.com/yashas224/docker-react) – React App to understand internals of Docker Image
+
+  ### 🐹 CI/CD
+  - [AWS Elastic Beanstalk and Travic CI ](https://github.com/yashas224/multi-container-elastic-beanstalk) – Deploying a Saple web application on AWS Elastic Beanstalk using  Travic CI CI/CD pipeline
 
 
  
