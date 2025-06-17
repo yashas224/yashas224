@@ -47,8 +47,8 @@ This space is dedicated to documenting my journey, learnings, and upskilling adv
 
 
  ###  Databases
-  - [MongoDB](https://github.com/yashas224/docker-react) – A spring boot application to work with MongoDB
-  - 
+  - [MongoDB](https://github.com/yashas224/docker-react) – Spring boot application to work with MongoDB
+  - [MySQL](https://github.com/yashas224/spring-boot-multiple-datastores) -  Spring boot project to integrate applicatio with multiple DB servers
 
   ### Docker and Kubernetes
   - [Docker Image Internals](https://github.com/yashas224/docker-react) – React App to understand internals of Docker Image
