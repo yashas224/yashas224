@@ -9,31 +9,31 @@ This space is dedicated to documenting my journey, learnings, and upskilling adv
 
 ## 🛠️ Tech Stack
 
-### 🐹 Java Concepts
+### Java Concepts
 - [Functional Programming](https://github.com/yashas224/functional-programming) – Java project exploring functional Programming
 - [Multithreading and parallel computine](https://github.com/yashas224/multithreading-parallel-computing-java) – Java project exploring Multithreading and parallel computine
 
 
-### 🐹 Java Reactive Programming
+### Java Reactive Programming
 - [Reactive Programming]([https://github.com/yashas224/functional-programming](https://github.com/yashas224/Project-Reactor)) – Java project exploring Reactive  Programming stack
 
 
-### 🐹 Spring Boot
+### Spring Boot
 - [Spring Boot Microservices ](https://github.com/yashas224/spring-boot-microservices) – Spring boot microservices built to understand Spring Cloud Netflix components 
 - [Spring Boot Microservices / Spring cloud v1](https://github.com/yashas224/spring-cloud-v1) –  Spring boot microservices built with spring cloud v1 to understand Spring Cloud Netflix components
 - [Spring Boot Microservices / Spring cloud v2](https://github.com/yashas224/spring-cloud-v2) –  Spring boot microservices built with spring cloud v2 to understand Spring Cloud Netflix components
 
-## Spring Boot Reactive
+### Spring Boot Reactive
 - [Spring Web flux ](https://github.com/yashas224/spring-web-flux-project) – Spring boot project built to understand Spring Web flux and reactive paradigm
 
-## Apache Kafka 
+### Apache Kafka 
 - [Java Project ](https://github.com/yashas224/kafka-java-project) – Java and Apache kafka project
 - [Java Project v1 ](https://github.com/yashas224/kafka-basic-java-programming) – Java and Apache kafka project
 - [Apache Kafka & spring boot 2.x ](https://github.com/yashas224/kafka-spring-boot) – Spring boot 2.x and Apache kafka project 
 - [Apache Kafka & spring boot 3.x ](https://github.com/yashas224/kafka-spring-boot-3x) –Spring boot 3.x and Apache kafka project 
 
 
-## OPA - https://www.openpolicyagent.org/
+### OPA - https://www.openpolicyagent.org/
 - [OPA project with Spring boot ](https://github.com/yashas224/OPA-spring-boot) – OPA  and Spring boot  project
 - [OPA Bundle Service API Demo with Spring boot ](https://github.com/yashas224/OPA-bundle-spring-boot) – Delivering OPA policy bundle using bundle service API [producer and consumer ] using Spring boot  project
 
