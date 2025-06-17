@@ -64,7 +64,7 @@ The Project was built to understand every aspect related to JVM shutdown hook.
 
 
 ###  Databases
-  - [MongoDB](https://github.com/yashas224/docker-react) – Spring boot application to work with MongoDB
+  - [MongoDB](https://github.com/yashas224/spring-mongo-trial-heroku) – Spring boot application to work with MongoDB
   - [MySQL](https://github.com/yashas224/spring-boot-multiple-datastores) -  Spring boot project to integrate applicatio with multiple DB servers
 
 ### Docker and Kubernetes
