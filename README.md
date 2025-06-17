@@ -39,13 +39,6 @@ This space is dedicated to documenting my journey, learnings, and upskilling adv
   - [Local K8s cluster deployment ](https://github.com/yashas224/simplek8s) – Deploying a the above  application on Local K8s cluster deployment
 
 
- 
-
-
-### 🗃️ Databases & Caching
-- [Redis Pub/Sub Demo](https://github.com/yourusername/redis-pubsub-demo) – Real-time messaging with Redis Pub/Sub.
-- [PostgreSQL Query Playground](https://github.com/yourusername/postgres-query-playground) – SQL queries, indexing, and optimization examples.
-
 ### 🧪 Testing, CI/CD, DevOps
 - [CI/CD with GitHub Actions](https://github.com/yourusername/github-actions-pipeline) – Pipeline with automated testing and Docker builds.
 - [Backend Integration Testing](https://github.com/yourusername/backend-integration-testing) – Real-world backend test setup with Docker Compose.
