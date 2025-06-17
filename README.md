@@ -44,6 +44,9 @@ This space is dedicated to documenting my journey, learnings, and upskilling adv
 - [Spring Security v2](https://github.com/yashas224/spring-security-v2) – Spring boot Security project 
 - [Spring Security JWT](https://github.com/yashas224/spring-security-jwt) –   Spring boot Security project working with JWT tokens
 
+###  Monitoring 
+- [Prometheus & grafana ](https://github.com/yashas224/monitoring-spring-boot) – Spring boot monitoring System using Prometheus & grafana
+
 
 
  ###  Databases
