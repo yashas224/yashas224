@@ -11,6 +11,8 @@ This space is dedicated to documenting my journey, learnings, and upskilling adv
 
 ### 🐹 Java Concepts
 - [Functional Programming](https://github.com/yashas224/functional-programming) – Java project exploring functional Programming
+- [Multithreading and parallel computine](https://github.com/yashas224/multithreading-parallel-computing-java) – Java project exploring Multithreading and parallel computine
+
 
 ### 🐹 Java Reactive Programming
 - [Reactive Programming]([https://github.com/yashas224/functional-programming](https://github.com/yashas224/Project-Reactor)) – Java project exploring Reactive  Programming stack
