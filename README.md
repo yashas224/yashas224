@@ -19,7 +19,7 @@ The Project was built to understand every aspect related to JVM shutdown hook.
 - [JVM shutdown process](https://github.com/yashas224/jvm-shutdown-k8s-spring-boot) – Service to understand relation between k8s pod termination , JVM shutdown using spring boot application. Shows usage of DB spring data jpa without using application.properties
 
 ### GraphQL 
-Soon !!!!
+In progress 
 
 
 ### Java Reactive Programming
