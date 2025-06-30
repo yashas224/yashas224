@@ -19,7 +19,8 @@ The Project was built to understand every aspect related to JVM shutdown hook.
 - [JVM shutdown process](https://github.com/yashas224/jvm-shutdown-k8s-spring-boot) – Service to understand relation between k8s pod termination , JVM shutdown using spring boot application. Shows usage of DB spring data jpa without using application.properties
 
 ### GraphQL 
-- [GraphQL ](https://github.com/yashas224/GraphQL) – Service to understand internal details of GraphQL Query language and implementing it using spring boot application.  
+[Implemented with Spring Boot]
+- [GraphQL ](https://github.com/yashas224/GraphQL) – GraphQL Service to understand internal details of GraphQL Query language and implementing it using spring boot application.  
 
 ### Java Reactive Programming
 - [Reactive Programming](https://github.com/yashas224/Project-Reactor) – Java project exploring Reactive  Programming stack
