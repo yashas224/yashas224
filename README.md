@@ -56,7 +56,7 @@ The Project was built to understand every aspect related to JVM shutdown hook.
 - [Prometheus & grafana ](https://github.com/yashas224/monitoring-spring-boot) – Spring boot monitoring System using Prometheus & grafana
 
 ###  Distributed locking - ShedLock 
-  - [ShedLock](https://github.com/yashas224/distributed-lock) – Sring boot APP to show the usage of distributed locking using shedLock library
+  - [ShedLock](https://github.com/yashas224/distributed-lock) – Sring boot service to understand the usage and concepts of distributed locking using shedLock library
 
 
 ### Circuit breaker
