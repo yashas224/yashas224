@@ -20,8 +20,8 @@ The Project was built to understand every aspect related to JVM shutdown hook.
 
 ### GraphQL 
 #### [Implemented with Spring Boot] #####
-- [GraphQL Service](https://github.com/yashas224/GraphQL) – GraphQL Service to understand internal details of GraphQL Query language and implementing it using spring boot application.  
-- [GraphQL Service Interacting with downstream Services]() – GraphQL Service to understand internal details of GraphQL Query language and implementing it using spring boot application.  
+- [GraphQL Service](https://github.com/yashas224/GraphQL-Service) – GraphQL Service to understand internal details of GraphQL Query language and implementing it using spring boot application.  
+- [GraphQL Service Interacting with downstream Services]() – A Spring boot GraphQL Service that interacts with 3 downstream Services via REST API,  Aggregates result and provides appropriate schema defination returning results.    
 
 ### Java Reactive Programming
 - [Reactive Programming](https://github.com/yashas224/Project-Reactor) – Java project exploring Reactive  Programming stack
