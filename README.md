@@ -1,6 +1,7 @@
 # 👋 Hello, I'm a Backend Software Engineer
 
-Welcome to my space! I'm passionate about **everything and anything that's not frontend** — in other words, I love building the **backbone of applications**. 🛠️
+Welcome to my space! 
+I’m focused and passionate around the design and development of robust backend services.
 
 ## 🚀 What You'll Find Here
 
