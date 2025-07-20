@@ -2,7 +2,7 @@
 
 Welcome to my space! <br>
 I’m focused and passionate around the design and development of robust backend services. <br>
-I have a strong interest in distributed systems and understanding the details of distributed system components—such as microservices, databases, message brokers, proxies, Load Balancing .. etc allows me to  architect, design and optimize highly scalable and available solutions <br>
+I have a strong interest in distributed systems and understanding the details of distributed system components—such as microservices, databases, message brokers, proxies, Load Balancers .. etc allows me to  architect, design and optimize highly scalable and available solutions <br>
 
 This space is dedicated to documenting my journey, learnings, and upskilling adventures as I explore the world of backend software Engineering.
 
