@@ -19,6 +19,11 @@ Deployed here - https://todo-app-fexe.onrender.com/
 ## ML basics and implementations
 - [ML implementations](https://github.com/yashas224/machine-learning-model-implementations) – Implementing various ML algorithm's using NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow/Keras, XGBoost, NLTK, Transformers 
 
+## Apache Spark 
+- [Apache Spark RDD](https://github.com/yashas224/apache-spark-rdd-programming) –Implementing  Apache Spark jobs using Apache Spark  RDD.
+- [Apache Spark SQL](https://github.com/yashas224/apache-spark-sql-programming/tree/main) –Implementing  Apache Spark jobs using Apache Spark  SQL. Dataframe operations.
+- [Apache Spark Streaming](https://github.com/yashas224/apache-spark-streaming) –Implementing data streaming using   Apache Spark Stremaing. Includes legacy Spark straming and newer Structured Streaming
+
 
 ### Java Concepts
 - [Functional Programming](https://github.com/yashas224/functional-programming) – Java project exploring functional Programming
