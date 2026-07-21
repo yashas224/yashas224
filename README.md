@@ -79,25 +79,6 @@ The goal is to improve answer quality by combining:
 
 DEMO - https://github.com/yashas224/mcp-client-server-langchain#product-demo
 
-
-### Java Concepts
-- [Functional Programming](https://github.com/yashas224/functional-programming) – Java project exploring functional Programming
-- [Multithreading and parallel computine](https://github.com/yashas224/multithreading-parallel-computing-java) – Java project exploring Multithreading and parallel computine
-
-### JVM shutdown 
-Problem statement - Not all Spring boot app's execute PostDestroy hook.
-The Project was built to understand every aspect related to JVM shutdown hook.
-- [JVM shutdown process](https://github.com/yashas224/jvm-shutdown-k8s-spring-boot) – Service to understand relation between k8s pod termination , JVM shutdown using spring boot application. Shows usage of DB spring data jpa without using application.properties
-
-### GraphQL 
-#### [Implemented with Spring Boot] #####
-- [GraphQL Service](https://github.com/yashas224/GraphQL-Service) – GraphQL Service to understand internal details of GraphQL components and implementing it using spring boot application.  
-- [GraphQL Service Interacting with downstream Services](https://github.com/yashas224/GraphQL-Spring-Boot-Service) – A Spring boot GraphQL Service that interacts with 3 downstream Services via REST API using Spring Web Client ,  Aggregates result and returns results based on Graph QL Schema Defination.
-
-### Java Reactive Programming
-- [Reactive Programming](https://github.com/yashas224/Project-Reactor) – Java project exploring Reactive  Programming stack
-
-
 ### Spring Boot
 - [Spring Boot Microservices ](https://github.com/yashas224/spring-boot-microservices) – Spring boot microservices built to understand Spring Cloud Netflix components 
 - [Spring Boot Microservices / Spring cloud v1](https://github.com/yashas224/spring-cloud-v1) –  Spring boot microservices built with spring cloud v1 to understand Spring Cloud Netflix components
@@ -111,6 +92,27 @@ The Project was built to understand every aspect related to JVM shutdown hook.
 - [Java Project v1 ](https://github.com/yashas224/kafka-basic-java-programming) – Java and Apache kafka project
 - [Apache Kafka & spring boot 2.x ](https://github.com/yashas224/kafka-spring-boot) – Spring boot 2.x and Apache kafka project 
 - [Apache Kafka & spring boot 3.x ](https://github.com/yashas224/kafka-spring-boot-3x) –Spring boot 3.x and Apache kafka project 
+
+### GraphQL 
+#### [Implemented with Spring Boot] #####
+- [GraphQL Service](https://github.com/yashas224/GraphQL-Service) – GraphQL Service to understand internal details of GraphQL components and implementing it using spring boot application.  
+- [GraphQL Service Interacting with downstream Services](https://github.com/yashas224/GraphQL-Spring-Boot-Service) – A Spring boot GraphQL Service that interacts with 3 downstream Services via REST API using Spring Web Client ,  Aggregates result and returns results based on Graph QL Schema Defination.
+
+
+### Java Concepts
+- [Functional Programming](https://github.com/yashas224/functional-programming) – Java project exploring functional Programming
+- [Multithreading and parallel computine](https://github.com/yashas224/multithreading-parallel-computing-java) – Java project exploring Multithreading and parallel computine
+
+### JVM shutdown 
+Problem statement - Not all Spring boot app's execute PostDestroy hook.
+The Project was built to understand every aspect related to JVM shutdown hook.
+- [JVM shutdown process](https://github.com/yashas224/jvm-shutdown-k8s-spring-boot) – Service to understand relation between k8s pod termination , JVM shutdown using spring boot application. Shows usage of DB spring data jpa without using application.properties
+
+
+### Java Reactive Programming
+- [Reactive Programming](https://github.com/yashas224/Project-Reactor) – Java project exploring Reactive  Programming stack
+
+
 
 
 ### OPA - https://www.openpolicyagent.org/
