@@ -59,7 +59,7 @@ Project Deployed here - https://todo-app-fexe.onrender.com/
 
 - [Agentic RAG](https://github.com/yashas224/agentic-rag-langgraph) – This project implements an adaptive Retrieval-Augmented Generation flow using LangGraph.Instead of always doing one fixed pipeline, the graph decides between:
   * Vector store first (RAG path),
-  * or Direct web search first <br>Then it validates relevance, generates an answer, checks hallucination risk, and can loop for retries.<br>The goal is to improve answer quality by combining:
+  * or Direct web search first.Then it validates relevance, generates an answer, checks hallucination risk, and can loop for retries.<br>The goal is to improve answer quality by combining:
   * Local knowledge from Chroma vector store
   * External knowledge from Tavily web search
   * LLM-based graders for relevance and grounding checks
