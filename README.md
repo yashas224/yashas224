@@ -16,6 +16,8 @@ Deployed here - https://todo-app-fexe.onrender.com/
 ## Elasticsearch
 - [Elasticsearch Spring boot Integration](https://github.com/yashas224/elasticsearch-springboot-basics) – This project is a hands-on Spring Data Elasticsearch learning POC. It demonstrates how to model Elasticsearch documents, define mappings/settings, run repository and template-based queries, and validate behavior through integration tests.
 
+## ML basics and implementations
+- [ML implementations](https://github.com/yashas224/machine-learning-model-implementations) – Implementing various ML algorithm's using NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow/Keras, XGBoost, NLTK, Transformers 
 
 
 ### Java Concepts
