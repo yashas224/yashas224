@@ -34,6 +34,22 @@ Deployed here - https://todo-app-fexe.onrender.com/
   * File system MCP server vis STDIO
   * ticketing  server mentioned above  vis STDIO 
 
+## LangChanin Projects
+- [langchain basics implementation](https://github.com/yashas224/langchain-basics-implementation) – Basic Impl of chat prompt and LLM model usahe for openAI and olamma models.
+- [Search Agent](https://github.com/yashas224/LangChain-Search-Agent) – Implementing an Search agent using langchain and tavilySearch Tool. Understanding an agent [model calling tools in a loop until a task is completed ] 
+- [Understading Agent Internals ](https://github.com/yashas224/LangChain-Agent-Internals) – Learning LangChain Agent Internals, ie- under the hood working of LangChain Agent
+  implementing  Agent in different ways
+  * Implementing ReAct Agent using low level LancChain Objects and couple of defined Tools , [Normal LLM call in loop until the LLM has no Tool invocation in its response ]
+  * Implementing ReAct Agent using low level Ollama SDK objects without the use of langChain Objects [Low level Agent implementation without any langChain Tools , with just plain prompting with ollama model]
+
+- [RAG implementation ](https://github.com/yashas224/LangChain-RAG-basics) –
+  * Static contents are embedded and ingected  into Pinecone Vectore Store.
+  * Implementing RAG invocation in different ways , using LangChainExpressionLanguage and without LangChainExpressionLanguage.  
+- [RAG project - Document Assistant ]( https://github.com/yashas224/langchain-doc-assistant) –
+  * Ingesting LangChain documents into Pinecone  Vector DB- Document loading, Test Spiltiing , chunking and generating Embeddings  to store in Pinecone DB.
+  * Retrval RAG pipeline to answer user query.
+  * Demo - https://github.com/yashas224/langchain-doc-assistant/tree/main
+
 
 ### Java Concepts
 - [Functional Programming](https://github.com/yashas224/functional-programming) – Java project exploring functional Programming
