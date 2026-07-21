@@ -35,7 +35,6 @@ Project Deployed here - https://todo-app-fexe.onrender.com/
 ### APIs
 ---
 #### GraphQL 
-#### [Implemented with Spring Boot] #####
 - [GraphQL Service](https://github.com/yashas224/GraphQL-Service) – GraphQL Service to understand internal details of GraphQL components and implementing it using spring boot application.  
 - [GraphQL Service Interacting with downstream Services](https://github.com/yashas224/GraphQL-Spring-Boot-Service) – A Spring boot GraphQL Service that interacts with 3 downstream Services via REST API using Spring Web Client ,  Aggregates result and returns results based on Graph QL Schema Defination.
 
@@ -121,7 +120,7 @@ The Project was built to understand every aspect related to JVM shutdown hook.
 ### Machine Learning Fundamentals
 ---
 #### ML basics and implementations
-- [ML implementations](https://github.com/yashas224/machine-learning-model-implementations) – Implementing various ML algorithm's using NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow/Keras, XGBoost, NLTK, Transformers 
+- [ML implementations](https://github.com/yashas224/machine-learning-model-implementations) – Implementing various ML algorithm's using NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow/Keras, XGBoost, NLTK, Hugging Face Transformers 
 
 ### AI Agents
 ---
