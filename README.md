@@ -19,16 +19,16 @@ I design and build resilient backend systems with a strong focus on microservice
 #### Spring Boot Reactive
 - [Spring Web flux ](https://github.com/yashas224/spring-web-flux-project) – Spring boot project built to understand Spring Web flux and reactive paradigm
 
-
-### Fast API
+#### Fast API
 - [Fast API Service Basics](https://github.com/yashas224/fastAPI-basics) – Fast API  project exploring basic of framework
 - [Fast API Service](https://github.com/yashas224/fastapi-todo-service) – A simple Todo Management Application built with FastAPI, SQLAlchemy, and SQLite/PostgreSQL support.
 It provides authentication, user-specific todo operations, and admin-level controls. <br>
 Project Deployed here - https://todo-app-fexe.onrender.com/
 
-
-### Elasticsearch
+#### Elasticsearch
 - [Elasticsearch Spring boot Integration](https://github.com/yashas224/elasticsearch-springboot-basics) – This project is a hands-on Spring Data Elasticsearch learning POC. It demonstrates how to model Elasticsearch documents, define mappings/settings, run repository and template-based queries, and validate behavior through integration tests.
+
+
 
 ### ML basics and implementations
 - [ML implementations](https://github.com/yashas224/machine-learning-model-implementations) – Implementing various ML algorithm's using NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow/Keras, XGBoost, NLTK, Transformers 
