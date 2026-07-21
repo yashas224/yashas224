@@ -10,7 +10,7 @@ I design and build resilient backend systems with a strong focus on microservice
 ## Fast API
 - [Fast API Service Basics](https://github.com/yashas224/fastAPI-basics) – Fast API  project exploring basic of framework
 - [Fast API Service](https://github.com/yashas224/fastapi-todo-service) – A simple Todo Management Application built with FastAPI, SQLAlchemy, and SQLite/PostgreSQL support.
-It provides authentication, user-specific todo operations, and admin-level controls.
+It provides authentication, user-specific todo operations, and admin-level controls. <br>
 Deployed here - https://todo-app-fexe.onrender.com/
 
 
