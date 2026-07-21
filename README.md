@@ -7,25 +7,25 @@ I design and build resilient backend systems with a strong focus on microservice
 
 ## 🛠️ Tech Stack
 
-## Fast API
+### Fast API
 - [Fast API Service Basics](https://github.com/yashas224/fastAPI-basics) – Fast API  project exploring basic of framework
 - [Fast API Service](https://github.com/yashas224/fastapi-todo-service) – A simple Todo Management Application built with FastAPI, SQLAlchemy, and SQLite/PostgreSQL support.
 It provides authentication, user-specific todo operations, and admin-level controls. <br>
 Project Deployed here - https://todo-app-fexe.onrender.com/
 
 
-## Elasticsearch
+### Elasticsearch
 - [Elasticsearch Spring boot Integration](https://github.com/yashas224/elasticsearch-springboot-basics) – This project is a hands-on Spring Data Elasticsearch learning POC. It demonstrates how to model Elasticsearch documents, define mappings/settings, run repository and template-based queries, and validate behavior through integration tests.
 
-## ML basics and implementations
+### ML basics and implementations
 - [ML implementations](https://github.com/yashas224/machine-learning-model-implementations) – Implementing various ML algorithm's using NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow/Keras, XGBoost, NLTK, Transformers 
 
-## Apache Spark 
+### Apache Spark 
 - [Apache Spark RDD](https://github.com/yashas224/apache-spark-rdd-programming) –Implementing  Apache Spark jobs using Apache Spark  RDD.
 - [Apache Spark SQL](https://github.com/yashas224/apache-spark-sql-programming/tree/main) –Implementing  Apache Spark jobs using Apache Spark  SQL. Dataframe operations.
 - [Apache Spark Streaming](https://github.com/yashas224/apache-spark-streaming) –Implementing data streaming using   Apache Spark Stremaing. Includes legacy Spark straming and newer Structured Streaming
 
-## Spring AI Projects
+### Spring AI Projects
 - [Spring AI Agent ](https://github.com/yashas224/spring-AI) – Building an AI agent usign Spring AI  with tool calling, chat memory, Advisors and RAG flows includes document embedding into qdrant vectore DB . Also underdstanding various prompting techniques using System and User Prompts .
 - [MCP server Remote- Weather server  ](https://github.com/yashas224/MCP-Server-remote-SpringAI) – Remote MCP server that exposes tool to get the weather using api.weatherapi.com.
 - [MCP server Local- ticketing server ](https://github.com/yashas224/MCP-Server-local-SpringAI) –A Customer helpdesk-mcp-server-stdio server that exposes tools to   create Tickets for issues raised and retrives them. This is shipped and bundled  as a JAR file so that  it can be used as stdio MCP server for MCP clients.  
@@ -35,7 +35,7 @@ Project Deployed here - https://todo-app-fexe.onrender.com/
   * File system MCP server vis STDIO
   * ticketing  server mentioned above  vis STDIO 
 
-## LangChanin Projects
+### LangChanin Projects
 - [langchain basics implementation](https://github.com/yashas224/langchain-basics-implementation) – Basic Impl of chat prompt and LLM model usahe for openAI and olamma models.
 - [Search Agent](https://github.com/yashas224/LangChain-Search-Agent) – Implementing an Search agent using langchain and tavilySearch Tool. Understanding an agent [model calling tools in a loop until a task is completed ] 
 - [Understading ReAct Agent Internals ](https://github.com/yashas224/LangChain-Agent-Internals) – Learning LangChain Agent Internals, ie- under the hood working of ReAct LangChain Agent
@@ -51,7 +51,7 @@ Project Deployed here - https://todo-app-fexe.onrender.com/
   * Retrval RAG pipeline to answer user query.
   * Demo - https://github.com/yashas224/langchain-doc-assistant/tree/main
 
-## LangGraph Projects
+### LangGraph Projects
 - [Basic LangGraph Agents](https://github.com/yashas224/langgraph-agent-basics) –  Implementing ReAct Agent using LangGraph.
 ReAct Agent - A ReAct agent executes tool calls in a loop until it determines the final answer.
 
@@ -74,6 +74,10 @@ The goal is to improve answer quality by combining:
 - External knowledge from Tavily web search
 - LLM-based graders for relevance and grounding checks
 
+### LangChain- MCP client and Server
+- [MCP client-Server ](https://github.com/yashas224/mcp-client-server-langchain) – A FastAPI-based AI agent host that also acts as an MCP client. It connects to multiple FastMCP servers (math via stdio and web search via HTTP), runs a LangChain agent with conversation memory, and exposes APIs for chat and history.
+
+DEMO - https://github.com/yashas224/mcp-client-server-langchain#product-demo
 
 
 ### Java Concepts
