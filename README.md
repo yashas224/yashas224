@@ -1,11 +1,9 @@
-#  Hello, I'm a Backend Software Engineer | AI Engineer building microservices, distributed systems, AI agents, and MCP servers and clients.<br>
+# Hello, I’m a Backend Software Engineer | AI Engineer<br>
 
 
 Welcome to my space! <br>
 
-I’m a Backend Software Engineer and AI Engineer passionate about distributed systems, microservices, and resilient backend architecture. I also build AI agents and MCP server-client systems to enable intelligent, context-aware applications. This space documents my learning journey and hands-on projects across backend and AI engineering.
-
-
+I design and build resilient backend systems with a strong focus on microservices and distributed architecture. I also develop AI agents and MCP server-client systems to create intelligent, context-aware applications. This space documents my learning journey and hands-on projects across backend and AI engineering.
 
 ## 🛠️ Tech Stack
 
