@@ -189,6 +189,10 @@ DEMO - https://github.com/yashas224/mcp-client-server-langchain#product-demo
 
 
 
+## 🚧 In Progress
+- RAG AI Agent to analyse a Document
+- GRPC
+- Kafka Streams 
 
 
 
