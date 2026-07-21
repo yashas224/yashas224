@@ -11,7 +11,8 @@ I design and build resilient backend systems with a strong focus on microservice
 - [Fast API Service Basics](https://github.com/yashas224/fastAPI-basics) – Fast API  project exploring basic of framework
 - [Fast API Service](https://github.com/yashas224/fastapi-todo-service) – A simple Todo Management Application built with FastAPI, SQLAlchemy, and SQLite/PostgreSQL support.
 It provides authentication, user-specific todo operations, and admin-level controls. <br>
-Deployed here - https://todo-app-fexe.onrender.com/
+Project Deployed here - https://todo-app-fexe.onrender.com/
+
 
 ## Elasticsearch
 - [Elasticsearch Spring boot Integration](https://github.com/yashas224/elasticsearch-springboot-basics) – This project is a hands-on Spring Data Elasticsearch learning POC. It demonstrates how to model Elasticsearch documents, define mappings/settings, run repository and template-based queries, and validate behavior through integration tests.
@@ -37,7 +38,7 @@ Deployed here - https://todo-app-fexe.onrender.com/
 ## LangChanin Projects
 - [langchain basics implementation](https://github.com/yashas224/langchain-basics-implementation) – Basic Impl of chat prompt and LLM model usahe for openAI and olamma models.
 - [Search Agent](https://github.com/yashas224/LangChain-Search-Agent) – Implementing an Search agent using langchain and tavilySearch Tool. Understanding an agent [model calling tools in a loop until a task is completed ] 
-- [Understading Agent Internals ](https://github.com/yashas224/LangChain-Agent-Internals) – Learning LangChain Agent Internals, ie- under the hood working of LangChain Agent
+- [Understading ReAct Agent Internals ](https://github.com/yashas224/LangChain-Agent-Internals) – Learning LangChain Agent Internals, ie- under the hood working of ReAct LangChain Agent
   implementing  Agent in different ways
   * Implementing ReAct Agent using low level LancChain Objects and couple of defined Tools , [Normal LLM call in loop until the LLM has no Tool invocation in its response ]
   * Implementing ReAct Agent using low level Ollama SDK objects without the use of langChain Objects [Low level Agent implementation without any langChain Tools , with just plain prompting with ollama model]
@@ -49,6 +50,27 @@ Deployed here - https://todo-app-fexe.onrender.com/
   * Ingesting LangChain documents into Pinecone  Vector DB- Document loading, Test Spiltiing , chunking and generating Embeddings  to store in Pinecone DB.
   * Retrval RAG pipeline to answer user query.
   * Demo - https://github.com/yashas224/langchain-doc-assistant/tree/main
+
+## LangGraph Projects
+- [Reflection Agents](https://github.com/yashas224/langgraph-reflection-agents) –  A Reflection Agent built using LangGraph that generates a tweet , self reflects and critiques the generated output and finally provides a better result.
+
+- [Reflexion Agent](https://github.com/yashas224/langgraph-Reflexion-Agent) –  This project implements a Reflexion Agent using LangGraph, an advanced AI agent pattern that iteratively improves answers through self-critique and web search refinement. The agent generates an initial answer, critiques its own work, performs targeted searches to address gaps, and revises the answer based on new information. This cycle repeats for a configurable number of iterations, resulting in increasingly accurate and well-sourced responses.
+
+
+- [Agentic RAG](https://github.com/yashas224/agentic-rag-langgraph) – This project implements an adaptive Retrieval-Augmented Generation flow using LangGraph.
+
+Instead of always doing one fixed pipeline, the graph decides between:
+
+Vector store first (RAG path), or
+Direct web search first
+Then it validates relevance, generates an answer, checks hallucination risk, and can loop for retries.
+
+The goal is to improve answer quality by combining:
+
+Local knowledge from Chroma vector store
+External knowledge from Tavily web search
+LLM-based graders for relevance and grounding checks
+
 
 
 ### Java Concepts
