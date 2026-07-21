@@ -26,9 +26,13 @@ Deployed here - https://todo-app-fexe.onrender.com/
 
 ## Spring AI Projects
 - [Spring AI Agent ](https://github.com/yashas224/spring-AI) – Building an AI agent usign Spring AI  with tool calling, chat memory, Advisors and RAG flows includes document embedding into qdrant vectore DB . Also underdstanding various prompting techniques using System and User Prompts .
-- [MCP server Remote ](https://github.com/yashas224/MCP-Server-remote-SpringAI) – Remote MCP server that exposes tool to get the weather using api.weatherapi.com.
-- [MCP server Local](https://github.com/yashas224/MCP-Server-local-SpringAI) –A Customer helpdesk-mcp-server-stdio server that exposes tools to   create Tickets for issues raised and retrives them. This is shipped and bundled  as a JAR file so that  it can be used as stdio MCP server for MCP clients.  
-- [MCP client ](https://github.com/yashas224/MCP-client-SpringAI/tree/main) – 
+- [MCP server Remote- Weather server  ](https://github.com/yashas224/MCP-Server-remote-SpringAI) – Remote MCP server that exposes tool to get the weather using api.weatherapi.com.
+- [MCP server Local- ticketing server ](https://github.com/yashas224/MCP-Server-local-SpringAI) –A Customer helpdesk-mcp-server-stdio server that exposes tools to   create Tickets for issues raised and retrives them. This is shipped and bundled  as a JAR file so that  it can be used as stdio MCP server for MCP clients.  
+- [MCP client ](https://github.com/yashas224/MCP-client-SpringAI/tree/main) – AI agent and an MCP client that has the following MCP servers attached:
+  * Remote MCP server - Weather server mentioned above  via SSE
+  * Githib MCP server via STDIO
+  * File system MCP server vis STDIO
+  * ticketing  server mentioned above  vis STDIO 
 
 
 ### Java Concepts
