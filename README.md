@@ -13,6 +13,10 @@ I design and build resilient backend systems with a strong focus on microservice
 It provides authentication, user-specific todo operations, and admin-level controls. <br>
 Deployed here - https://todo-app-fexe.onrender.com/
 
+## Elasticsearch
+- [Elasticsearch Spring boot Integration](https://github.com/yashas224/elasticsearch-springboot-basics) – This project is a hands-on Spring Data Elasticsearch learning POC. It demonstrates how to model Elasticsearch documents, define mappings/settings, run repository and template-based queries, and validate behavior through integration tests.
+
+
 
 ### Java Concepts
 - [Functional Programming](https://github.com/yashas224/functional-programming) – Java project exploring functional Programming
