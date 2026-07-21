@@ -121,7 +121,7 @@ The Project was built to understand every aspect related to JVM shutdown hook.
 #### Spring AI
 - [Spring AI Agent ](https://github.com/yashas224/spring-AI) – Building an AI agent usign Spring AI  with tool calling, chat memory, Advisors and RAG flows includes document embedding into qdrant vectore DB . Also underdstanding various prompting techniques using System and User Prompts .
 
-#### LangChanin 
+#### LangChain 
 - [langchain basics implementation](https://github.com/yashas224/langchain-basics-implementation) – Basic Impl of chat prompt and LLM model usahe for openAI and olamma models.
 - [Search Agent](https://github.com/yashas224/LangChain-Search-Agent) – Implementing an Search agent using langchain and tavilySearch Tool. Understanding an agent [model calling tools in a loop until a task is completed ] 
 - [Understading ReAct Agent Internals ](https://github.com/yashas224/LangChain-Agent-Internals) – Learning LangChain Agent Internals, ie- under the hood working of ReAct LangChain Agent
