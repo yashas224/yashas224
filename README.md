@@ -52,6 +52,9 @@ Project Deployed here - https://todo-app-fexe.onrender.com/
   * Demo - https://github.com/yashas224/langchain-doc-assistant/tree/main
 
 ## LangGraph Projects
+- [Basic LangGraph Agents](https://github.com/yashas224/langgraph-agent-basics) –  Implementing ReAct Agent using LangGraph.
+ReAct Agent - A ReAct agent executes tool calls in a loop until it determines the final answer.
+
 - [Reflection Agents](https://github.com/yashas224/langgraph-reflection-agents) –  A Reflection Agent built using LangGraph that generates a tweet , self reflects and critiques the generated output and finally provides a better result.
 
 - [Reflexion Agent](https://github.com/yashas224/langgraph-Reflexion-Agent) –  This project implements a Reflexion Agent using LangGraph, an advanced AI agent pattern that iteratively improves answers through self-critique and web search refinement. The agent generates an initial answer, critiques its own work, performs targeted searches to address gaps, and revises the answer based on new information. This cycle repeats for a configurable number of iterations, resulting in increasingly accurate and well-sourced responses.
