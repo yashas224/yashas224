@@ -57,19 +57,12 @@ Project Deployed here - https://todo-app-fexe.onrender.com/
 - [Reflexion Agent](https://github.com/yashas224/langgraph-Reflexion-Agent) –  This project implements a Reflexion Agent using LangGraph, an advanced AI agent pattern that iteratively improves answers through self-critique and web search refinement. The agent generates an initial answer, critiques its own work, performs targeted searches to address gaps, and revises the answer based on new information. This cycle repeats for a configurable number of iterations, resulting in increasingly accurate and well-sourced responses.
 
 
-- [Agentic RAG](https://github.com/yashas224/agentic-rag-langgraph) – This project implements an adaptive Retrieval-Augmented Generation flow using LangGraph.
-
-Instead of always doing one fixed pipeline, the graph decides between:
-
-Vector store first (RAG path), or
-Direct web search first
-Then it validates relevance, generates an answer, checks hallucination risk, and can loop for retries.
-
-The goal is to improve answer quality by combining:
-
-Local knowledge from Chroma vector store
-External knowledge from Tavily web search
-LLM-based graders for relevance and grounding checks
+- [Agentic RAG](https://github.com/yashas224/agentic-rag-langgraph) – This project implements an adaptive Retrieval-Augmented Generation flow using LangGraph.Instead of always doing one fixed pipeline, the graph decides between:
+  * Vector store first (RAG path),
+  * or Direct web search first <br>Then it validates relevance, generates an answer, checks hallucination risk, and can loop for retries.<br>The goal is to improve answer quality by combining:
+  * Local knowledge from Chroma vector store
+  * External knowledge from Tavily web search
+  * LLM-based graders for relevance and grounding checks
 
 
 
