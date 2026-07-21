@@ -5,6 +5,12 @@ Welcome to my space! <br>
 
 I design and build resilient backend systems with a strong focus on microservices and distributed architecture. I also develop AI agents and MCP server-client systems to create intelligent, context-aware applications. This space documents my learning journey and hands-on projects across backend and AI engineering.
 
+#### Currently Building
+- RAG AI Agent to analyse a Document
+- GRPC
+- Kafka Streams 
+
+
 ## 🛠️ Tech Stack
 
 ## ⚙️ Backend Engineering
