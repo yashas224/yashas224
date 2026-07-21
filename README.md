@@ -33,7 +33,7 @@ Project Deployed here - https://todo-app-fexe.onrender.com/
 - [GraphQL Service Interacting with downstream Services](https://github.com/yashas224/GraphQL-Spring-Boot-Service) – A Spring boot GraphQL Service that interacts with 3 downstream Services via REST API using Spring Web Client ,  Aggregates result and returns results based on Graph QL Schema Defination.
 
 ### Data Engineering
-
+---
 #### Apache Spark 
 - [Apache Spark RDD](https://github.com/yashas224/apache-spark-rdd-programming) –Implementing  Apache Spark jobs using Apache Spark  RDD.
 - [Apache Spark SQL](https://github.com/yashas224/apache-spark-sql-programming/tree/main) –Implementing  Apache Spark jobs using Apache Spark  SQL. Dataframe operations.
@@ -64,7 +64,7 @@ Project Deployed here - https://todo-app-fexe.onrender.com/
   - [Circuit breaker](https://github.com/yashas224/circuit-breaker) – Circuit Breakaer implementation using functionl programming & annotations. Includes test cases for circuit breaker and Grafna Dashboards
 
 ### Multithreading & other JVM related work 
-
+---
 #### Java Concepts
 - [Functional Programming](https://github.com/yashas224/functional-programming) – Java project exploring functional Programming
 - [Multithreading and parallel computine](https://github.com/yashas224/multithreading-parallel-computing-java) – Java project exploring Multithreading and parallel computine
@@ -81,12 +81,8 @@ The Project was built to understand every aspect related to JVM shutdown hook.
   - [GitHub Webhook](https://github.com/yashas224/github-webhook-listner) – Creates a github webhook and process the request. Service is made accessible to github via ngrok or on https://studio.mogenius.com
 
 
-
-
-
-
 ### Cloud & DevOps
-
+---
 #### Docker and Kubernetes
   - [Docker Image Internals](https://github.com/yashas224/docker-react) – React App to understand internals of Docker Image
   - [Kubernetes - spring cloud v2](https://github.com/yashas224/spring-cloud-v2-kubernetes) –  Deploy spring boot microservices with spring cloud v2 on local Kubernetes
