@@ -11,7 +11,7 @@ I design and build resilient backend systems with a strong focus on microservice
 - Apache Kafka Streams applications
 
 
-# 🚀 Engineering Portfolio
+# 🚀 Featured Projects
 
 
 ## ⚙️ Backend Engineering
