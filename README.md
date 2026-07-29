@@ -152,7 +152,8 @@ ReAct Agent - A ReAct agent executes tool calls in a loop until it determines th
 ---
 #### LangChain
 
-- [RAG implementation ](https://github.com/yashas224/LangChain-RAG-basics) –
+- [RAG implementation ](https://github.com/yashas224/LangChain-RAG-basics) | [RAG-langchain-basics-v1](https://github.com/yashas224/RAG-langchain-basics-v1) –
+  * Implementing LangChain Core Concepts: Data Ingestion, Embeddings, splitters, vector Storage and  Vector Retrieval
   * Static contents are embedded and ingected  into Pinecone Vectore Store.
   * Implementing RAG invocation in different ways , using LangChainExpressionLanguage and without LangChainExpressionLanguage.  
 - [RAG project - Document Assistant ]( https://github.com/yashas224/langchain-doc-assistant) –
