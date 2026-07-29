@@ -134,7 +134,9 @@ The Project was built to understand every aspect related to JVM shutdown hook.
   implementing  Agent in different ways
   * Implementing ReAct Agent using low level LancChain Objects and couple of defined Tools , [Normal LLM call in loop until the LLM has no Tool invocation in its response ]
   * Implementing ReAct Agent using low level Ollama SDK objects without the use of langChain Objects [Low level Agent implementation without any langChain Tools , with just plain prompting with ollama model]
-- [Language Translator](https://github.com/yashas224/language-translator-langchain) – Implementing a Language Translator using LangChain, Groq, FastAPI, and LangServe. 
+- [Language Translator](https://github.com/yashas224/language-translator-langchain) – Implementing LLM based Language Translator using LangChain, Groq, FastAPI, and LangServe. 
+- [Conversational LLM Assistant with Memory](https://github.com/yashas224/memory-agent-langchain) – Conversational LLM Assistant that saves chat history between interactions. 
+
 - 
 #### LangGraph 
 
