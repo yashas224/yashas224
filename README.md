@@ -160,6 +160,12 @@ ReAct Agent - A ReAct agent executes tool calls in a loop until it determines th
   * Ingesting LangChain documents into Pinecone  Vector DB- Document loading, Test Spiltiing , chunking and generating Embeddings  to store in Pinecone DB.
   * Retrval RAG pipeline to answer user query.
   * Demo - https://github.com/yashas224/langchain-doc-assistant/tree/main
+- [RAG project - multi-URL RAG assistant ](https://github.com/yashas224/url-rag-assistant) – A lightweight multi-URL RAG assistant built with LangChain, FastAPI, Chroma, and Streamlit.
+  * Accepts one or more web URLs and ingests their page content into a vector database.
+  * Answers user questions from uploaded URL, Q&A over the URL contents, with optional source filtering by URL.
+  * Maintains chat memory per user session for follow-up questions.
+  * Demo- https://github.com/yashas224/url-rag-assistant/blob/main/assets/demo-url-assistant.mp4
+
 
 #### LangGraph
 
