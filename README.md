@@ -128,7 +128,7 @@ The Project was built to understand every aspect related to JVM shutdown hook.
 - [Spring AI Agent ](https://github.com/yashas224/spring-AI) – Building an AI agent usign Spring AI  with tool calling, chat memory, Advisors and RAG flows includes document embedding into qdrant vectore DB . Also underdstanding various prompting techniques using System and User Prompts .
 
 #### LangChain 
-- [langchain basics implementation](https://github.com/yashas224/langchain-basics-implementation) | [langchain-basics-v1](https://github.com/yashas224/langchain-basics-v1) – Basic Impl of chat prompt, LLM model and learning core LangChain patterns usage for openAI and olamma models 
+
 - [Search Agent](https://github.com/yashas224/LangChain-Search-Agent) – Implementing an Search agent using langchain and tavilySearch Tool. Understanding an agent [model calling tools in a loop until a task is completed ] 
 - [Understading ReAct Agent Internals ](https://github.com/yashas224/LangChain-Agent-Internals) – Learning LangChain Agent Internals, ie- under the hood working of ReAct LangChain Agent
   implementing  Agent in different ways
@@ -137,7 +137,8 @@ The Project was built to understand every aspect related to JVM shutdown hook.
 - [Language Translator](https://github.com/yashas224/language-translator-langchain) – Implementing LLM based Language Translator using LangChain, Groq, FastAPI, and LangServe. 
 - [Conversational LLM Assistant with Memory](https://github.com/yashas224/memory-agent-langchain) – Conversational LLM Assistant that saves chat history between interactions. 
 
-- 
+- [langchain basics implementation](https://github.com/yashas224/langchain-basics-implementation) | [langchain-basics-v1](https://github.com/yashas224/langchain-basics-v1) – Basic Impl of chat prompt, LLM model and learning core LangChain patterns usage for openAI and olamma models 
+ 
 #### LangGraph 
 
 - [ReAct Agent](https://github.com/yashas224/langgraph-agent-basics) –  Implementing ReAct Agent using LangGraph.
