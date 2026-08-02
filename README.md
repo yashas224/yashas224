@@ -128,6 +128,9 @@ The Project was built to understand every aspect related to JVM shutdown hook.
 - [Spring AI Agent ](https://github.com/yashas224/spring-AI) – Building an AI agent usign Spring AI  with tool calling, chat memory, Advisors and RAG flows includes document embedding into qdrant vectore DB . Also underdstanding various prompting techniques using System and User Prompts .
 
 #### LangChain 
+- [Human-in-the-Loop Task Planner](https://github.com/yashas224/ai-agent-human-in-the-loop) - AI Agent that has "Human in the Loop"  while planning a Task.
+  * An AI Agent task planner that combines web Search with a local task database.  
+  * The key idea is safety: before sensitive actions, a human approves or rejects what the agent wants to do before executing tools thus adding a layer of Human Verification.
 
 - [Search Agent](https://github.com/yashas224/LangChain-Search-Agent) – Implementing an Search agent using langchain and tavilySearch Tool. Understanding an agent [model calling tools in a loop until a task is completed ] 
 - [Understading ReAct Agent Internals ](https://github.com/yashas224/LangChain-Agent-Internals) – Learning LangChain Agent Internals, ie- under the hood working of ReAct LangChain Agent
