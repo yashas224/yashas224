@@ -140,7 +140,7 @@ The Project was built to understand every aspect related to JVM shutdown hook.
 - 
 #### LangGraph 
 
-- [Basic LangGraph Agents](https://github.com/yashas224/langgraph-agent-basics) –  Implementing ReAct Agent using LangGraph.
+- [ReAct Agent](https://github.com/yashas224/langgraph-agent-basics) –  Implementing ReAct Agent using LangGraph.
 ReAct Agent - A ReAct agent executes tool calls in a loop until it determines the final answer.
 
 - [Reflection Agents](https://github.com/yashas224/langgraph-reflection-agents) –  A Reflection Agent built using LangGraph that generates a tweet , self reflects and critiques the generated output and finally provides a better result.
@@ -152,10 +152,7 @@ ReAct Agent - A ReAct agent executes tool calls in a loop until it determines th
 ---
 #### LangChain
 
-- [RAG implementation ](https://github.com/yashas224/LangChain-RAG-basics) | [RAG-langchain-basics-v1](https://github.com/yashas224/RAG-langchain-basics-v1) –
-  * Implementing LangChain Core Concepts: Data Ingestion, Embeddings, splitters, vector Storage and  Vector Retrieval
-  * Static contents are embedded and ingected  into Pinecone Vectore Store.
-  * Implementing RAG invocation in different ways , using LangChainExpressionLanguage and without LangChainExpressionLanguage.  
+
 - [RAG project - Document Assistant ]( https://github.com/yashas224/langchain-doc-assistant) –
   * Ingesting LangChain documents into Pinecone  Vector DB- Document loading, Test Spiltiing , chunking and generating Embeddings  to store in Pinecone DB.
   * Retrval RAG pipeline to answer user query.
@@ -165,7 +162,12 @@ ReAct Agent - A ReAct agent executes tool calls in a loop until it determines th
   * Answers user questions from uploaded URL, Q&A over the URL contents, with optional source filtering by URL.
   * Maintains chat memory per user session for follow-up questions.
   * [Watch the demo](https://github.com/yashas224/url-rag-assistant/blob/main/assets/demo-url-assistant.mp4)
+- [RAG implementation ](https://github.com/yashas224/LangChain-RAG-basics) | [RAG-langchain-basics-v1](https://github.com/yashas224/RAG-langchain-basics-v1) –
+  * Implementing LangChain Core Concepts: Data Ingestion, Embeddings, splitters, vector Storage and  Vector Retrieval
+  * Static contents are embedded and ingected  into Pinecone Vectore Store.
+  * Implementing RAG invocation in different ways , using LangChainExpressionLanguage and without LangChainExpressionLanguage.
 
+    
 #### LangGraph
 
 
