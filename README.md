@@ -144,6 +144,9 @@ The Project was built to understand every aspect related to JVM shutdown hook.
  
 #### LangGraph 
 
+- [Human approval agent](https://github.com/yashas224/approval-agent-langgraph) –  A streaming Human-in-the-Loop AI React Agent built with LangGraph and FastAPI.
+The agent can decide when to use web search, pause for human approval, and resume the same conversation after approval or rejection.
+
 - [ReAct Agent](https://github.com/yashas224/langgraph-agent-basics) –  Implementing ReAct Agent using LangGraph.
 ReAct Agent - A ReAct agent executes tool calls in a loop until it determines the final answer.
 
