@@ -124,6 +124,9 @@ The Project was built to understand every aspect related to JVM shutdown hook.
 
 ### AI Agents
 ---
+#### multi-agent AI systems
+- [Multi Agent Subagent pattern](https://github.com/yashas224/multi-ai-agent-subagent) - A Multi-Agent AI system built using LangGraph, LangChain, OpenAI, Tavily, and FastAPI. The system uses subagent pattern with Supervisor Agent to coordinate specialized AI sub agents through tools. Here in the subagents architecture, a central main agent (supervisor) coordinates subagents by calling them as tools.
+---
 #### Spring AI
 - [Spring AI Agent ](https://github.com/yashas224/spring-AI) – Building an AI agent usign Spring AI  with tool calling, chat memory, Advisors and RAG flows includes document embedding into qdrant vectore DB . Also underdstanding various prompting techniques using System and User Prompts .
 
