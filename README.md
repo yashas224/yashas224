@@ -124,7 +124,11 @@ The Project was built to understand every aspect related to JVM shutdown hook.
 
 ### AI Agents
 ---
-#### multi-agent AI systems
+#### Multi-Agent AI systems
+
+- [Multi AI Agent - Dispatcher Pattern](https://github.com/yashas224/multi-ai-agent-dispatcher) - A multi-agent AI system built with LangGraph and LangChain that follows the dispatcher pattern to route user requests to the most relevant agents. This project shows how specialized agents can collaborate effectively in a coordinated and efficient way.
+
+
 - [Multi Agent Subagent pattern](https://github.com/yashas224/multi-ai-agent-subagent) - A Multi-Agent AI system built using LangGraph, LangChain, OpenAI, Tavily, and FastAPI. The system uses subagent pattern with Supervisor Agent to coordinate specialized AI sub agents through tools. Here in the subagents architecture, a central main agent (supervisor) coordinates subagents by calling them as tools.
 ---
 #### Spring AI
